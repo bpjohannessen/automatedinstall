@@ -1,3 +1,9 @@
-# ubuntuSetup
-Various configs/scripts for Ubuntu 17.04 on a Dell XPS 13 9360.
-It is not recommended to run this code.
+# automatedinstall
+
+## Windows
+1. [Install choco](https://chocolatey.org/install#installing-chocolatey) from cmd as administrator
+2. Install packages :-)
+
+```
+choco install -y visualstudiocode pandoc mkdocs miktex vlc evernote googlechrome dropbox git openvpn python qbittorrent virtualbox -y
+```
