@@ -5,5 +5,5 @@
 2. Install packages :-)
 
 ```
-choco install -y visualstudiocode pandoc mkdocs miktex vlc evernote googlechrome dropbox git openvpn python qbittorrent virtualbox -y
+choco install -y visualstudiocode pandoc mkdocs miktex vlc evernote googlechrome dropbox git openvpn python qbittorrent virtualbox make openvpn paint.net teamviewer wget winrar -y
 ```
