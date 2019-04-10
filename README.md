@@ -10,5 +10,5 @@
 
 ```
 choco install -y slack visualstudiocode pandoc mkdocs miktex vlc evernote googlechrome dropbox git openvpn python qbittorrent virtualbox make openvpn paint.net teamviewer wget winrar dotnetcore-sdk
-pip install mkdocs-material visualstudio2017community
+pip install mkdocs-material resharper-platform
 ```
