@@ -16,3 +16,13 @@ choco install -y slack visualstudiocode pandoc mkdocs miktex vlc googlechrome dr
 ```
 pip install mkdocs-material resharper-platform
 ```
+
+## macOS
+
+Various commands
+```
+;hide
+chflags hidden ~/Public ~/Sites
+;unhide
+chflags nohidden ~/Public ~/Sites
+```
